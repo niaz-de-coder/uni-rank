@@ -1,0 +1,72 @@
+[
+  {
+    "id": "u1",
+    "name": "Dhaka University",
+    "area": "Dhaka University",
+    "type": "Public",
+    "programs": ["CSE","Economics","English","Bangla"],
+    "ranking": 1
+  },
+  {
+    "id": "u2",
+    "name": "Jahangirnagar University",
+    "area": "Jahangir Nagar",
+    "type": "Public",
+    "programs": ["CSE","Physics","Chemistry","English"],
+    "ranking": 6
+  },
+  {
+    "id": "u3",
+    "name": "North South University",
+    "area": "Bashundhara",
+    "type": "Private",
+    "programs": ["CSE","Business Studies","Economics","English"],
+    "min_budget_lakh": 5,
+    "max_budget_lakh": 20,
+    "ranking": 4
+  },
+  {
+    "id": "u4",
+    "name": "Bangladesh University of Engineering and Technology (BUET)",
+    "area": "Mirpur",
+    "type": "National",
+    "programs": ["CSE","Civil","Mechanical","EEE","Architecture"],
+    "ranking": 2
+  },
+  {
+    "id": "u5",
+    "name": "Independent University, Bangladesh",
+    "area": "Dhanmondi",
+    "type": "Private",
+    "programs": ["CSE","Business Studies","English"],
+    "min_budget_lakh": 6,
+    "max_budget_lakh": 25,
+    "ranking": 8
+  },
+  {
+    "id": "u6",
+    "name": "University of Rajshahi",
+    "area": "Rajshahi",
+    "type": "Public",
+    "programs": ["CSE","Economics","Bangla","English"],
+    "ranking": 7
+  },
+  {
+    "id": "u7",
+    "name": "Chittagong University",
+    "area": "Chattogram",
+    "type": "Public",
+    "programs": ["CSE","Civil","Economics"],
+    "ranking": 9
+  },
+  {
+    "id": "u8",
+    "name": "BRAC University",
+    "area": "Uttara",
+    "type": "Private",
+    "programs": ["CSE","Economics","Business Studies"],
+    "min_budget_lakh": 4,
+    "max_budget_lakh": 18,
+    "ranking": 5
+  }
+]
